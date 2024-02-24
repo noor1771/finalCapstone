@@ -44,3 +44,7 @@ The sentiment analysis, powered by the TextBlob library, assigned polarity score
 Limitations and Further Work
 
 While the sentiment analysis model has proven effective in categorizing sentiments of reviews, it faces limitations in detecting nuanced expressions of human emotions, such as sarcasm. Future work could explore more sophisticated models or incorporate additional linguistic features to enhance the accuracy of sentiment detection.
+
+Credits
+
+This project was developed by Noor Younes. Acknowledgments to the creators and contributors of the pandas, spaCy, and TextBlob libraries for their tools that significantly contributed to this analysis.
